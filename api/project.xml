@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc_api name="项目详情">
+	<api name="项目基本信息">
+		<request method="get" url="www.taobao.com">
+			<params>
+				<param key="id" name="标识" type="int" def="0" />
+				<param key="id" name="标识" type="int" def="0" />
+			</params>
+			<result>
+				<list></list>
+				<object></object>
+			</result>
+		</request>
+	</api>
+</doc_api>
+
